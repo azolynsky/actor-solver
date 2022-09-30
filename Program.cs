@@ -26,8 +26,13 @@ foreach (var actor in actors)
     }
 }
 
-var from = graph.findNode("Jonathan Taylor Thomas");
-var to = graph.findNode("Robin Williams");
+Console.WriteLine("Enter an actor's name");
+string fromInput = Console.ReadLine();
+var from = graph.findNode(fromInput);
+
+Console.WriteLine("Enter another actor's name");
+string toInput = Console.ReadLine();
+var to = graph.findNode(toInput);
 
 Console.WriteLine(string.Join(", ", graph.findShortestPath(from, to).Select(n => n.name)));
 
