@@ -13,3 +13,5 @@
 /Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.pdb
 /Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
 /Users/AZolynsky/Development/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/AZolynsky/Development/tester/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
