@@ -1,0 +1,15 @@
+/Users/AZolynsky/Development/tester/bin/Debug/net6.0/tester
+/Users/AZolynsky/Development/tester/bin/Debug/net6.0/tester.deps.json
+/Users/AZolynsky/Development/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/AZolynsky/Development/tester/bin/Debug/net6.0/tester.dll
+/Users/AZolynsky/Development/tester/bin/Debug/net6.0/tester.pdb
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.dll
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/refint/tester.dll
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.pdb
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/AZolynsky/Development/tester/obj/Debug/net6.0/ref/tester.dll

@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "npx tsc",
+    "start": "set NODE_TLS_REJECT_UNAUTHORIZED=0 && node tester.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
