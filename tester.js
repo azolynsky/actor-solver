@@ -25,7 +25,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const helper_1 = require("./lib/helper");
 const fs = __importStar(require("fs"));
-let depth = 10;
+let depth = 500;
 const main = async () => {
     let actorQueue = [{ name: "Dana Carvey", link: "/name/nm0001022" }];
     let visitedActors = [];

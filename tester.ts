@@ -1,7 +1,7 @@
 import { getMovies, getStars, Actor, Movie, getHtml } from "./lib/helper";
 import * as fs from "fs";
 
-let depth = 10;
+let depth = 500;
 
 const main = async () => {
   let actorQueue: Actor[] = [{ name: "Dana Carvey", link: "/name/nm0001022" }];
