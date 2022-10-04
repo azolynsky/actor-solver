@@ -1,9 +1,10 @@
 {
   "scripts": {
     "build": "npx tsc",
-    "start": "set NODE_TLS_REJECT_UNAUTHORIZED=0 && node tester.js"
+    "start": "npx tsc && node tester.js"
   },
   "devDependencies": {
+    "@types/node": "^18.8.2",
     "typescript": "^4.8.4"
   },
   "dependencies": {

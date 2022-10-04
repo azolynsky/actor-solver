@@ -5,10 +5,14 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -48,26 +52,25 @@
     ]
   },
   "packageFolders": {
-    "/Users/AZolynsky/.nuget/packages/": {}
+    "/Users/alex/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/AZolynsky/Development/tester/tester.csproj",
+      "projectUniqueName": "/Users/alex/Development/actor-solver/tester.csproj",
       "projectName": "tester",
-      "projectPath": "/Users/AZolynsky/Development/tester/tester.csproj",
-      "packagesPath": "/Users/AZolynsky/.nuget/packages/",
-      "outputPath": "/Users/AZolynsky/Development/tester/obj/",
+      "projectPath": "/Users/alex/Development/actor-solver/tester.csproj",
+      "packagesPath": "/Users/alex/.nuget/packages/",
+      "outputPath": "/Users/alex/Development/actor-solver/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/AZolynsky/.nuget/NuGet/NuGet.Config"
+        "/Users/alex/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://qugetgal.rockfin.com/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -96,7 +99,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -105,7 +109,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
